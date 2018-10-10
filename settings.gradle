@@ -1,0 +1,8 @@
+/*
+ * settings.gradle on NewsAppwithMVP
+ * Developed by Muhammad Utsman on 10/10/18 12:22 PM
+ * Last modified 10/10/18 9:43 AM
+ * Copyright (c) 2018 kucingapes
+ */
+
+include ':app'
